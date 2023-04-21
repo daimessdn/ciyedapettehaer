@@ -10,10 +10,10 @@ getParcelDescription(document.querySelector("#maryam-1"), `
     <h2>Sirup Maryam KW</h2>
             
     <p>
-        Ini sirup Maryam KW yang cocok untuk menemani hari lebaran kamu.
+        Ini sirup Maryam KW yang cocok untuk menemani hari lebaran Anda.
         Sesuai dengan namanya, sirup ini, ya <em>emang sirup KW</em>, tapi bukan
         KW sembarangan karena KW super dengan rasa mendekati sirup pada umumnya.
-        Sangat cocok untuk teman kamu yang suka pamer pencapaian, pemberi
+        Sangat cocok untuk teman Anda yang suka pamer pencapaian, pemberi
         status palsu, harapan palsu, dan spesies teman-teman sejenisnya yang
         memiliki gejala seperti demikian.
     </p>
