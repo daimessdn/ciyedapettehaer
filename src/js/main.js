@@ -53,7 +53,7 @@ getParcelDescription(document.querySelector("#fanta"), `
     <p>
         FANTAT, minuman berkarbonasi rasa stroberi, menjanjikan sensasi baru ketika meminumnya.
         Tidak hanya dari luar, namun juga dari dalam. Setiap tegukan FANTAT memberikan efek langsung
-        bukan hanya dari mulut, tapi juga dari bagian akhir. Tidak percaya? Patut untuk dicoba.
+        bukan hanya dari mulut, tapi juga dari bagian akhir (<em>Yep</em>, sesuai dengan namanya, wkwkwk...). Tidak percaya? Patut untuk dicoba.
     </p>
 `);
 
